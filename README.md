@@ -1,5 +1,7 @@
 # Validación de ficheros XML
 
+![Validación de ficheros XML](caratula.png)
+
 ## XML Bien Formado
 
 Un XML bien formado:
